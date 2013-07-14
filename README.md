@@ -13,7 +13,7 @@ Using these extra cores, you can program the corresponding AVR chip using Arduin
 Installation
 -------------
 
-To install these additional cores, download or checkout the project from github and then copy it inside `/hardware` folder of your sketchbook folder and then restart the Arduino IDE.
+To install these additional cores, download or checkout the project from github and then copy the `arduino-extra-core` directory inside `/hardware` folder of your sketchbook folder and then restart the Arduino IDE.
 
 After the restart, you should be able to see the new boards under the boards menu. Select the board which you want to program.
 
